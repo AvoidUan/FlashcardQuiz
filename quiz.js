@@ -104,7 +104,7 @@ const quizData = [
       correct: 'b'
     },
     {
-      question: '4. Which method is used to replace an element at a specific index in an ArrayList in Java?',
+      question: '14. Which method is used to replace an element at a specific index in an ArrayList in Java?',
       a: 'a) set()',
       b: 'b) replace()',
       c: 'c) update()',
